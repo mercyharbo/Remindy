@@ -1,4 +1,4 @@
-# Holiday Reminder Bot
+# Remindy
 
 A Node.js backend app that sends you Telegram reminders for upcoming public holidays in the US, UK, and Nigeria (Africa) using the Google Calendar API. Reminders are sent 1-2 days before each holiday.
 
@@ -22,8 +22,8 @@ A Node.js backend app that sends you Telegram reminders for upcoming public holi
 
 ```sh
 # Example:
-git clone https://github.com/yourusername/holiday-reminder.git
-cd holiday-reminder
+git clone https://github.com/mercyharbo/Remindy.git
+cd Remindy
 ```
 
 2. **Install dependencies**
